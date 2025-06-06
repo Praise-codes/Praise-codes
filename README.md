@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **Praise-codes/Praise-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 😇Praise is my name
+- 👉My primary account is Praise25Delai
+- 👩‍💻I'm currently working on a few trial projects
+- 👩‍🎓I'm learning Python and JavaScript at the moment
+- 👩‍💼I edit documents as a part-time job
+- 👯I'm hoping to collaborate with people in IoT
+- 🌼I'm willing to learn from anyone who wants to teach me
+- 📬You can reach me on Snapchat (ego_xo) and email(praisedelali07@gmail.com)
+  
